@@ -1,4 +1,7 @@
+package problems;
+
 import org.junit.Test;
+import problems.ArrayMultiply;
 
 import java.util.ArrayList;
 import java.util.Arrays;
